@@ -39,9 +39,6 @@ If you'd like to contribute to this project, please follow these steps:
 5. Push to the branch (`git push origin feature/add-new-feature`).
 6. Create a new Pull Request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Inspiration: [Provide inspiration/source if any]
 - Libraries: AFMotor, NewPing, Servo
